@@ -18,7 +18,7 @@ Welcome to our repository of technical book summaries! Dive into a treasure trov
 
 
 
-![](./DesigningDataIntensiveApplications/media/Cover.jpg)
+![](./DesigningDataIntensiveApplications/media/cover.jpg)
 ### Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - **Author:** Martin Kleppmann 
 - **Publication Date:** March 16, 2017
