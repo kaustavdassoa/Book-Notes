@@ -30,7 +30,7 @@ Welcome to our repository of technical book summaries! Dive into a treasure trov
 
 
 
-![](./PivotalCertifiedProfessionalCoreSpring5DeveloperExam\media\cover.jpg)
+![](./PivotalCertifiedProfessionalCoreSpring5DeveloperExam/media/cover.jpg)
 ### Pivotal Certified Professional Core Spring 5 Developer Exam_2020
 
 - **Author:** Iuliana Cosmina, Rob Harrop, Chris Schaefer, and Clarence Ho
