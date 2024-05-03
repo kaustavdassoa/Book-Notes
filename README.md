@@ -37,4 +37,4 @@ Welcome to my repository of technical book summaries! Dive into a treasure trove
 - **Publication Date:** August 20, 2020
 - **Tags:** Spring Framework, Certification, Java, Software Development
 - **Summary:** The "Pivotal Certified Professional Core Spring 5 Developer Exam_2020" book is a comprehensive guide designed to help developers prepare for the Spring Professional Certification exam. Authored by seasoned professionals, this book covers key concepts, best practices, and advanced topics related to the Spring Framework version 5. It provides detailed explanations, practical examples, and sample questions to aid in understanding and mastering core Spring concepts. Whether you're aiming to become a certified Spring developer or seeking to deepen your knowledge of Spring framework, this book serves as an invaluable resource.
-- **Note:** [Link to the folder in git repo](https://github.com/kaustavdassoa/Book-Notes/tree/main/PivotalCertifiedProfessionalCoreSpring5DeveloperExam)
+- **Note:** [PivotalCertifiedProfessionalCoreSpring5DeveloperExam](https://github.com/kaustavdassoa/Book-Notes/tree/main/PivotalCertifiedProfessionalCoreSpring5DeveloperExam)
