@@ -24,3 +24,26 @@ Ideal for beginners and intermediate learners, the series combines intuitive exp
 An MCP server, or Model Context Protocol server, facilitates the standard communication between generative AI apps and the data they utilize, to simplify and accelerate the development of accurate and robust AI systems.The need for MCP servers arises from the challenges in managing massive volumes of data scattered across various sources. Enterprises often struggle with integrating and effectively using this data, especially when it's siloed in different systems. MCP servers provide an effective solution for ensuring that LLMs get the right data at the right time, reducing the chances of AI hallucinations and other errors.
 
 [MCP Server Lists](./MCP-ServerLists.md)
+
+
+
+Krish Naik Courses Link 
+
+
+Generative AI and Agentic AI Courses
+1. Complete Generative AI Course With Langchain and Huggingface
+2. Complete Agentic AI Bootcamp With LangGraph and Langchain
+
+
+
+Introduction to LLMs video by Andrej Karpathy : While not a traditional "course book," this is a 1-hour video that provides a high-level overview of the current state of generative AI, particularly Large Language Models (LLMs), setting the scene for understanding the industry. As a YouTube video, it is a free resource.
+
+https://www.youtube.com/watch?v=zjkBMFhNj_g
+
+Andrej Karpathy's Neural Networks: Zero to Hero course : This course teaches how to build PyTorch, or at least how it works under the hood, from scratch. It progresses from simple neural networks to building a GPT model using only raw NumPy arrays, meaning "no libraries". This course is typically available as a free video series.
+
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
+Hands-on Large Language Models textbook by Jay Alammar
+
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
