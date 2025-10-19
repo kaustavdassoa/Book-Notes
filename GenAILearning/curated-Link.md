@@ -47,3 +47,20 @@ https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 Hands-on Large Language Models textbook by Jay Alammar
 
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+
+Important Link
+
+[Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol).
+
+Blogs
+
+[Build the GPT Tokenizer](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers)
+
+
+Trainings  
+
+[Associate AI Engineer for Developers](https://datacamp.pxf.io/kO2QWN)
+[Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
+[Hugging Face Courses](https://huggingface.co/learn)
+[Associate AI Engineer for Data Scientists](https://datacamp.pxf.io/DydA3n)
+[Generative AI Engineering with LLMs Specialization](https://imp.i384100.net/WyQJNM)
