@@ -13,7 +13,7 @@ The evolution of AI systems has progressed from simple prompt-based interfaces t
 **Multi-Agent AI Applications** represent the most sophisticated architecture, featuring distributed systems where multiple specialized agents collaborate, communicate, and coordinate to solve complex problems beyond single-agent capabilities. These systems exhibit decentralized decision-making and emergent behaviors through inter-agent collaboration.[^11][^12][^8]
 
 
-![](./Artifacts/Pasted image 20251026121457.png)
+![](./Artifacts/Pastedimage20251026121457.png)
 
 ### Core Components and Technical Infrastructure
 
@@ -45,7 +45,8 @@ Simple agents operate iteratively: Prompt → Tool Call → LLM → Output in a 
 
 Multi-agent systems exhibit high complexity: Goal → Agent Orchestration → Multi-Agent Collaboration → Output. They support multiple patterns including sequential, parallel, network, supervisor, and iterative refinement architectures, coordinate multi-step workflows, enable dynamic task reallocation, facilitate cross-agent messaging and handoffs, implement recursive task delegation, and enable emergent problem-solving behaviors.[^19][^8][^22][^11][^14][^13]
 
-![](./Artifacts/Pasted image 20251026121744.png)
+![](./Artifacts/Pastedimage20251026121744.png)
+
 ### Use Cases and Application Domains
 
 Each architecture excels in specific domains. Prompt-based generative AI suits creative content generation (stories, poems, artwork), code scaffolding and templates, data format transformation, basic Q\&A from model knowledge, content summarization, and simulated scenarios like mock interviews.[^23][^16][^1]
